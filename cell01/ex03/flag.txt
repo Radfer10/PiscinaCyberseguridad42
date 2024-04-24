@@ -1,0 +1,5 @@
+User: ' OR '1'='1
+Password: ' OR '1'='1
+http://cybersec.42madrid.com:3320/index.php
+42BCN{welcomeHackerto42}
+
