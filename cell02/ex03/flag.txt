@@ -1,0 +1,11 @@
+HashCat
+c967d488512ab5559b446f97843de1be0d615088:liamup2u
+John the Ripper
+c967d488512ab5559b446f97843de1be0d615088:hacking
+
+rade-mig@c3r2s3 run % ./john --wordlist=wordlist.lst --format=has-160 flag.txt
+Using default input encoding: UTF-8
+Loaded 1 password hash (has-160 [HAS-160 32/64])
+Press 'q' or Ctrl-C to abort, almost any other key for status
+0g 0:00:00:00 DONE (2024-04-24 17:18) 0g/s 800.0p/s 800.0c/s 800.0C/s hacking
+Session completed
